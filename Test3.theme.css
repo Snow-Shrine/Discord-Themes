@@ -1,0 +1,46 @@
+/**
+ * @name Test Theme
+ * @author Snow-Shrine
+ * @description Test Theme
+ * @version 5.1
+ */
+
+ .app-2CXKsg {
+    background-image: url(https://i.pinimg.com/originals/c0/73/db/c073db2e5973796c05d85fb4ea0be383.jpg);
+    background-size: cover;
+    background-color: transparent;
+}
+
+
+
+.theme-dark .uploadModal-2ie9O_ {
+    background-color: transparent;
+}
+
+.countContainer-3DOo5v {
+    background-color: #61a5d8;
+}
+
+.preview-3SR4Rd {
+    color: white;
+}
+
+.root-2s1-ri>* {
+    background-color: transparent;
+}
+
+.withTagAsButton-OsgQ9L:hover, 
+.withTagless-10ooWt:hover {
+  background-color: rgba(0, 0, 0, .3);
+  border-radius: 4px;
+  border: 1px solid #00aeff;
+  color: white;
+}
+
+.theme-light .messageContainer-3a6gLR {
+    background-color: #181818;
+}
+
+.background-3X6N7I {
+    background-color: transparent;
+}
