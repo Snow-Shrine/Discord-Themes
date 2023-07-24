@@ -44,3 +44,32 @@
 .background-3X6N7I {
     background-color: transparent;
 }
+
+.reactionTooltipText-iAWHhX a {
+    color: #00DFF1;
+    font-weight: bold;
+    background-color: black;
+    padding: 2px;
+}
+
+.bg-1QIAus {
+    background-color: transparent;
+}
+
+.layers-1YQhyW {
+    background-color: rgba(0,0,0,.65);
+}
+
+.container-ZMc96U.themed-Hp1KC_, .chat-2ZfjoI, .members-3WRCEx, .members-3WRCEx>div,
+.chat-2ZfjoI, .container-2o3qEW, .theme-dark .container-1NXEtd, .sidebar-1tnWFu, .theme-dark .scroller-3X7KbA, .wrapper-1_HaEi {
+    background: transparent;
+}
+
+
+.panels-3wFtMD {
+    background-color: rgba(0,0,0,.25);
+}
+
+.theme-dark .container-2McqkF {
+    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+}
