@@ -1218,11 +1218,6 @@
     background-color: rgba(0, 0, 0, .2);
 }
 
-
-.userProfileOuterUnthemed-11rPfA {
-    background-color: transparent;
-}
-
 .overlayBackground-2aa7wt {
     background-color: transparent;
 }
@@ -1235,26 +1230,10 @@
     box-shadow: none;
 }
 
-.userProfileOuter-1K_BYU {
-    border-radius: 3px;
-}
-
-.userProfileInner-1ngKnf:before {
-    background-color: transparent;
-}
-
-.userProfileInner-1ngKnf {
-    border-radius: 3px 3px 0 0;
 }
 
 .activity-2EQDZv {
     color: white;
-}
-
-
-.avatar-2Vndt_, .avatar-3QF_VA {
-    border: none;
-    background-color: transparent;
 }
 
 .avatarWrapper-eenWra foreignObject, .avatarHint-k7pYop foreignObject, .avatar-3QF_VA foreignObject {
