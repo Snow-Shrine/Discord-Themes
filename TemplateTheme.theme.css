@@ -1244,12 +1244,12 @@
 }
 
 .userProfileInnerThemedNonPremium-2AJg-H {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background: none;
 }
 
 .userProfileInnerThemedWithBanner-25XGmz,
 .userProfileInnerThemedPremiumWithoutBanner-lZ9inp {
-    background-image: -webkit-repeating-linear-gradient(-48deg, #000000 30%, #1a1a1a 35%);
+    background: none;
 }
 
 .userProfileOuterThemed-2BgJCM.userPopoutOuter-1OHwPL, 
