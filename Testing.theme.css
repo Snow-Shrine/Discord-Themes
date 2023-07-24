@@ -14,7 +14,7 @@
 
 :root {
 	--app-bg: url(https://i.pinimg.com/originals/c0/73/db/c073db2e5973796c05d85fb4ea0be383.jpg);
-	--app-blur: 2px;
+	--app-blur: 1px;
 	--app-margin: 24px;
 	--app-radius: 8px; /*	-	*/
 	
